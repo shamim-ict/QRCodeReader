@@ -1,0 +1,22 @@
+#QRCodeReader
+
+This application has been developed to read 2d barcode (PDF417) printed on back side of National ID cards of Bangladesh. This application is designed for iOS 10.0+, built on top of Apple AVFoundation framework.
+
+
+Specification
+
+You have to write an iOS application that will read 2D barcode printed on the back side of National ID cards(Bangladesh). Use the camera to read the barcode and for usability purpose show an overlay around the barcode during positioning with the camera. Show the data you read from the barcode in another list view that will display the latest data as well as previously read data.
+
+Reader
+Overlay
+Storage
+ListView
+ReaderView
+
+
+<]?\^^NMMd. Shafiqul Islam\^]NW4602819684\^]OL19867815252000013\^]BR19861229\^]PE7852\^]PR7852\^]VA780602\^]DT20180618\^]PK24\^]SGd6UmceKNGKNJrrh+CQi8lelbeXCZoJhvY7BMf/fZiKB1EAJGOrN8Y5QuPbTjLi3HDowScqJaeeInRJMD8d3roA==\^]CH08021A3B85\^D
+
+
+//<]?NMMd. Shafiqul IslamNW4602819684OL19867815252000013BR19861229PE7852PR7852VA780602DT20180618PK24SGd6UmceKNGKNJrrh+CQi8lelbeXCZoJhvY7BMf/fZiKB1EAJGOrN8Y5QuPbTjLi3HDowScqJaeeInRJMD8d3roA==CH08021A3B85
+
+
